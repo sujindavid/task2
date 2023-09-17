@@ -1,2 +1,2 @@
-question
-Answer
+question a+b
+Answer 2ab
